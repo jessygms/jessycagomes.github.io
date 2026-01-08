@@ -28,18 +28,18 @@ body {
   width: 35%;
   padding: 80px;
   background-color: var(--bg);
-  position: fixed;
+  position: flex;
   height: 100vh;
 }
 
 .hello {
-  font-size: 48px;         /* Aqui aumenta o nome hello*/
+  font-size: 38px;         /* Aqui aumenta o nome hello*/
   letter-spacing: 2px;
   color: var(--accent);
 }
 
 .left h1 {
-  font-size: 9.5rem;
+  font-size: 7.5rem;
   margin: 10px 0;
   color: var(--accent);
 }
