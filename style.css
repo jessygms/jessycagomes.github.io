@@ -30,10 +30,12 @@ body {
 }
 
 .hero h1 {
-  font-size: 7.5rem;
+  font-size: 3.8rem; /* igual ao Sobre mim */
+  line-height: 1;
   margin: 10px 0;
   color: var(--accent);
 }
+
 
 .hero h1 span {
   color: var(--text);
